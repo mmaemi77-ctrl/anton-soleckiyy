@@ -1,0 +1,22 @@
+{
+  "page": "index.html",
+  "eyebrow": "Антон Солецкий · главный экран",
+  "title": "Покупатель пишет <em>уже с&nbsp;бюджетом</em>",
+  "chips": [
+    "Анкета подбора на первом экране",
+    "Горячие предложения с ценой",
+    "Заявка сразу в WhatsApp"
+  ],
+  "bg": "#0E1F3D",
+  "ink": "#F4F2E8",
+  "label": "#DCEF4C",
+  "accent": "#DCEF4C",
+  "accentInk": "#0E1F3D",
+  "accentText": "#DCEF4C",
+  "titleFont": "Montserrat,sans-serif",
+  "titleWeight": 900,
+  "fontsHref": "https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&display=swap",
+  "photo": "img/anton-stol.jpg",
+  "logo": "img/anton-krug.png",
+  "titleEmStyle": "normal"
+}
